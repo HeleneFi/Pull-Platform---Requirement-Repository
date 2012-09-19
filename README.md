@@ -1,4 +1,5 @@
-#Pull-Platform
+Pull-Platform
+==============
 
 Empowering a network of issues-related learning and collaborative environments. 
 
@@ -87,15 +88,20 @@ Need infrastructure on which to build this
 Put on top structure, processes, protocols - organizing metaphors, narratives, enablers
 
 
-###Specific Features
+###References
 
-**On Pinging**
+Visualization: How the mind works http://www.msci.memphis.edu/~franklin/paradigm.html
+
+
+###Specific Features and possibilities
+
+**Pinging**
 
 A  right-click option in web documents that would insert popup comparison  tables to fill in (visible to others via a subtle tag, or upon a cursor  mouseover). The popup tables might be embedded, conditionally-visible  new SocialCompare tables that would let us see side by side comments,  alternative wordings, related diagrams – or whatever people wanted to  offer. (Mark Frazier)
 
 A  hashtag comparison table when creating content on socialNets that  would, sort of the way Quora suggest topics, let you know what hashtags  most people are following related to your subject. (Zaq)
 
-**On Video tagging and harvesting**
+**Video tagging and harvesting**
 
 Interface  software to record our voices and send us all transcripts. Currently  > make an audio record of skype calls with (free) Callburner, or  video recording Skype calls with free Vodburner. Create transcripts from  Professional Edition of Dragon speech recognition software. Gizmo.
 
@@ -106,5 +112,3 @@ Printable  record that can be reviewed with highlighters of different colors and
 Make  an audio record of skype calls with Callburner which is free, and even  video recordings of skype video calls with free Vodburner. (Have them,  never used them, don’t know how good they are.) I imagine those digital  files could then be fed into the Professional Edition of Dragon speech  recognition software which can make text from digital audio files.
  
 
-###References
-Visualization: How the mind works http://www.msci.memphis.edu/~franklin/paradigm.html
