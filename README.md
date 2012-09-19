@@ -25,6 +25,11 @@ We need to be able to start conversations with no structure and enable the struc
 
 We need conversations where we can go back and reflect – turn the asynchronicity in time & space in an opportunity for making new sense rather than diverging  (reflection)
 
+We need an infinite cannevas, that can enable lots of stuff. 
+* Wikis don't respond to needs (no construction of discourse)
+*Blogs don't respond to needs (no synthesis/merging of argumentation)
+[Blog as a tip of a wiki iceberg] (http://communitywiki.org/en/BlogControlledByWiki)
+
 
 ###Requirements
 
@@ -52,15 +57,15 @@ Specify intents
 
 Synchronize resources and needs to maximize potential and impact
 
-Pull people and resources around social objects as ‘attractors’ – Push possibilities
+Pull people and resources around [social objects as ‘attractors’] (http://www.slideshare.net/jess3/the-world-of-social-objects) – 
 
-Match people and objects – Platform is people and conversation centric
+Push possibilities, match people and objects – Platform is people and conversation centric
 
 Create Contextualized Connections (revalue reap the potential of the hyperlink)
 * Ping things, concepts, people, data into a conversation (Pull Platform mechanism).
 * Point out objects that need work. Notify those that might be interested.
 * Ping from wherever you are within documents etc (rizzoma, Kune,  Hackpad) ideally via portable identities like email portability.
-* Link to context and follow from wherever you are "hook" (to people -in  response to-, conversations, posts –in reference to-, data update etc)
+* Link to context and follow from wherever you are "hook" (to people -response to-, conversations, posts –reference to-, data update etc)
 
 Pull related data from the web on ongoing basis
 
@@ -68,9 +73,9 @@ Enable generative conversations to grow into something more comprehensive
 * Processing of content and iteration: curation, learning, annotation,  evaluation, argumentation, decision, action – contextualized and cross  referenced) (debategraph, Kune)
 * Self discovery space, taking notes, adding on, modifying (sandbox)
 * Hands on modifying and scaling – fork, diff, merge. (re: open source - github)
-* Transition from unstructured to structured and reprocess the history into a structure.
+* Transition from [unstructured to structured] (http://www.communitywiki.org/en/StructureOfWikis) and reprocess the history into a structure.
 
-Enable Learning and discovery - Paying Attention, Doing, and Learning. (discovery)
+Enable Learning and discovery - Paying Attention, Doing, and Learning. 
 
 Broadcast to a larger audience for diffusion (push) or input (pull)
 
@@ -79,13 +84,7 @@ Co-generation of narrative, collective authorship in multimedia (co-creation). E
 Make  the process seamless, fluid and transparent, as effortless as possible  in order to focus on the learning, interactions and sense making.  (integration of modules and protocols)
 
 Need infrastructure on which to build this
-Put on top structure, roles (?) processes, protocol > organizing metaphors, narratives, enablers
-
-We need an infinite cannevas, that can enable lots of stuff. 
-* Wikis don't respond to needs (no construction of discourse)
-*Blogs don't respond to needs (no synthesis/merging of argumentation)
-[Blog as a tip of a wiki iceberg] (http://communitywiki.org/en/BlogControlledByWiki)
-
+Put on top structure, processes, protocols > organizing metaphors, narratives, enablers
 
 
 ###Specific Features
@@ -95,10 +94,10 @@ We need an infinite cannevas, that can enable lots of stuff.
 A  right-click option in web documents that would insert popup comparison  tables to fill in (visible to others via a subtle tag, or upon a cursor  mouseover). The popup tables might be embedded, conditionally-visible  new SocialCompare tables that would let us see side by side comments,  alternative wordings, related diagrams – or whatever people wanted to  offer. (Mark Frazier)
 
 A  hashtag comparison table when creating content on socialNets that  would, sort of the way Quora suggest topics, let you know what hashtags  most people are following related to your subject. (Zaq)
-On Video tagging
-Interface  software to record our voices and send us all transcripts. Currently  > make an audio record of skype calls with (free) Callburner, or  video recording Skype calls with free Vodburner. Create transcripts from  Professional Edition of Dragon speech recognition software. Gizmo.
 
-**On video harvesting**
+**On Video tagging and harvesting**
+
+Interface  software to record our voices and send us all transcripts. Currently  > make an audio record of skype calls with (free) Callburner, or  video recording Skype calls with free Vodburner. Create transcripts from  Professional Edition of Dragon speech recognition software. Gizmo.
 
 Combine video chat with a text box and a twitter backchannel
 
