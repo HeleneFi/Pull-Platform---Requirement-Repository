@@ -27,8 +27,8 @@ We need conversations where we can go back and reflect – turn the asynchronici
 
 We need an infinite cannevas, that can enable lots of stuff. 
 * Wikis don't respond to needs (no construction of discourse)
-*Blogs don't respond to needs (no synthesis/merging of argumentation)
-[Blog as a tip of a wiki iceberg] (http://communitywiki.org/en/BlogControlledByWiki)
+* Blogs don't respond to needs (no synthesis/merging of argumentation) 
+* [Blog as a tip of a wiki iceberg] (http://communitywiki.org/en/BlogControlledByWiki)?
 
 
 ###Requirements
@@ -84,7 +84,7 @@ Co-generation of narrative, collective authorship in multimedia (co-creation). E
 Make  the process seamless, fluid and transparent, as effortless as possible  in order to focus on the learning, interactions and sense making.  (integration of modules and protocols)
 
 Need infrastructure on which to build this
-Put on top structure, processes, protocols > organizing metaphors, narratives, enablers
+Put on top structure, processes, protocols - organizing metaphors, narratives, enablers
 
 
 ###Specific Features
