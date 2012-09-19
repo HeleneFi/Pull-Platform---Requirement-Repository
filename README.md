@@ -1,3 +1,7 @@
+This repository has moved to here: (https://github.com/HeleneFi/Platform-Feature-Wishlist)
+Awaiting to be hosted by a collective account.
+
+
 Pull-Platform
 ==============
 
