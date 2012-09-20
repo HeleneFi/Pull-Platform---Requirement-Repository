@@ -1,1 +1,1 @@
-This repository has moved to here: (https://github.com/HeleneFi/The_Project/blob/master/Conversation.to.Action-Pull.Platform.md) as part of :::The Project:::
+The content of this repository has moved to here: (https://github.com/HeleneFi/The_Project/blob/master/Conversation.to.Action-Pull.Platform.md) as part of :::The Project:::
